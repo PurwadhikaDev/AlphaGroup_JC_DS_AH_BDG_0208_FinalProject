@@ -1,0 +1,3 @@
+Model,Recall,Precision,F2_Score,Best_CV_Score
+Random Forest,0.6938,0.6926,0.6936,0.8553
+XGBoost,0.8266,0.5338,0.7449,0.8544

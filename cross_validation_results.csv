@@ -1,0 +1,5 @@
+Model,Recall_Mean,Recall_Std,Precision_Mean,Precision_Std,F2_Mean,F2_Std
+Logistic Regression,0.7949,0.0044,0.7365,0.0042,0.7825,0.0036
+Decision Tree,0.762,0.0074,0.8438,0.0033,0.777,0.0057
+Random Forest,0.8882,0.0017,0.8911,0.0032,0.8888,0.0018
+XGBoost,0.8701,0.0024,0.8972,0.0007,0.8754,0.002
