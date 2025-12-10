@@ -270,7 +270,7 @@ def main():
     # Sidebar - Navigation
     st.sidebar.title("📋 Navigation")
     page = st.sidebar.radio("Select Page", 
-                           ["Single Prediction", "Batch Prediction", "Model Info", "About"])
+                           ["Single Prediction", "Batch Prediction", "Model Info"])
     
     # ========================================================================
     # PAGE 1: SINGLE PREDICTION
